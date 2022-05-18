@@ -1,6 +1,5 @@
 ### Hi there 👋 It's me Adit Dahal 
 
-<li> 🔭 I’m currently working on Projects.</li>
 <li> 🌱 I’m currently learning ReactJS.</li>
 <li> 🥅 2022 Goals: Being full stack developer.</li>
 <li> ⚡ Fun fact: I am fond of playing football.</li>
