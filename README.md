@@ -1,7 +1,7 @@
 ### Hi there 👋 It's me Adit Dahal 
 
 <li> 🌱 I’m currently learning ReactJS.</li>
-<li> 🥅 2024 Goals: Being full stack developer.</li>
+<li> 🥅 2023 Goals: Being full stack developer.</li>
 <li> ⚡ Fun fact: I am fond of playing football.</li>
 
 ---
